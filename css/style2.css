@@ -18,7 +18,7 @@
 	height: 300px;
 	width: 500px;
 	overflow: hidden;
-	display: flex;
+	display: center;
 	align-items: center;
 }
 
